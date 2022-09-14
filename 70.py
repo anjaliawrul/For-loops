@@ -1,0 +1,1 @@
+# print('cs'+'ip'if'234'.isdigit()else'iT'+'-402')
